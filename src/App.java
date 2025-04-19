@@ -3,6 +3,8 @@ public class App {
         System.out.println("Hello, World!");
 
         
-        System.out.println("Đinh Văn Lợi");
+        System.out.println("Dinh Van Loi");
+        System.out.println("Trầm Thị Mỹ Quỳnh");
+        
     }
 }
